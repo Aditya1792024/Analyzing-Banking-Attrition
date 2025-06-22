@@ -35,9 +35,9 @@
 </ul>
 <h2>Kay Insights:</h2>
 <ul>
-    <li>The overall churn rate is 20.37%.</li>
-    <li>Female customers exhibit a higher churn rate of 25.07%.</li>
-    <li>Customers in the Senior Adult age group (41-60) show the highest attrition rate at 39.65%.</li>
+    <li>The overall churn rate is 20.37%. <br><br><img src="/Images/ss9.jpg" alt="Resolving inconsistencies" width="336" height="150">&nbsp;&nbsp;&nbsp;<img src="/Images/ss10.jpg" alt="Resolving inconsistencies" width="336" height="150"></li>
+    <li>Female customers exhibit a higher churn rate of 25.07%. <br><br><img src="/Images/ss11.jpg" alt="Resolving inconsistencies" width="336" height="150">&nbsp;&nbsp;&nbsp;<img src="/Images/ss12.jpg" alt="Resolving inconsistencies" width="336" height="150"></li>
+    <li>Customers in the Senior Adult age group (41-60) show the highest attrition rate at 39.65%. <br><br><img src="/Images/ss13.jpg" alt="Resolving inconsistencies" width="336" height="150">&nbsp;&nbsp;&nbsp;<img src="/Images/ss14.jpg" alt="Resolving inconsistencies" width="336" height="150"></li>
     <li>Attrition among female customers in the Senior Adult age group reaches 45.80%.</li>
     <li>German customers experience a higher attrition rate of 32.44% compared to other regions.</li>
     <li>Among German customers, new customers have a significantly high attrition rate of 38.21%.</li>
