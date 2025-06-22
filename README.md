@@ -35,18 +35,18 @@
 </ul>
 <h2>Kay Insights:</h2>
 <ul>
-    <li>The overall churn rate is 20.37%. <br><br><img src="/Images/ss9.jpg" alt="Resolving inconsistencies" width="336" height="150">&nbsp;&nbsp;&nbsp;<img src="/Images/ss10.jpg" alt="Resolving inconsistencies" width="336" height="150"></li>
-    <li>Female customers exhibit a higher churn rate of 25.07%. <br><br><img src="/Images/ss11.jpg" alt="Resolving inconsistencies" width="336" height="150">&nbsp;&nbsp;&nbsp;<img src="/Images/ss12.jpg" alt="Resolving inconsistencies" width="336" height="150"></li>
-    <li>Customers in the Senior Adult age group (41-60) show the highest attrition rate at 39.65%. <br><br><img src="/Images/ss13.jpg" alt="Resolving inconsistencies" width="336" height="150">&nbsp;&nbsp;&nbsp;<img src="/Images/ss14.jpg" alt="Resolving inconsistencies" width="336" height="150"></li>
-    <li>Attrition among female customers in the Senior Adult age group reaches 45.80%.</li>
-    <li>German customers experience a higher attrition rate of 32.44% compared to other regions.</li>
-    <li>Among German customers, new customers have a significantly high attrition rate of 38.21%.</li>
-    <li>Inactivity among new German customers may be the primary reason for attrition, as inactive customers contribute 51% to the total churn.</li>
-    <li>Notably, female customers with a credit card who are active are less likely to leave, whereas those with a card who are inactive have the highest likelihood of churning.</li>
-    <li>Inactivity among customers might stem from dissatisfaction with bank products, as those using 3 or 4 products show a churn rate exceeding 88%.</li>
+    <li>The overall churn rate is 20.37%. <br><br><img src="/Images/ss9.jpg" alt="Resolving inconsistencies" width="250" height="57">&nbsp;&nbsp;&nbsp;<img src="/Images/ss10.jpg" alt="Resolving inconsistencies" width="239" height="57"></li>
+    <li>Female customers exhibit a higher churn rate of 25.07%. <br><br><img src="/Images/ss11.jpg" alt="Resolving inconsistencies" width="300" height="118">&nbsp;&nbsp;&nbsp;<img src="/Images/ss12.jpg" alt="Resolving inconsistencies" width="300" height="93"></li>
+    <li>Customers in the Senior Adult age group (41-60) show the highest attrition rate at 39.65%. <br><br><img src="/Images/ss13.jpg" alt="Resolving inconsistencies" width="350" height="137">&nbsp;&nbsp;&nbsp;<img src="/Images/ss14.jpg" alt="Resolving inconsistencies" width="538" height="130"></li>
+    <li>Attrition among female customers in the Senior Adult age group reaches 45.80%. <br><br><img src="/Images/ss16.jpg" alt="Resolving inconsistencies" width="293" height="150">&nbsp;&nbsp;&nbsp;<img src="/Images/ss17.jpg" alt="Resolving inconsistencies" width="480" height="150"></li>
+    <li>German customers experience a higher attrition rate of 32.44% compared to other regions. <br><br><img src="/Images/ss18.jpg" alt="Resolving inconsistencies" width="350" height="103">&nbsp;&nbsp;&nbsp;<img src="/Images/ss19.jpg" alt="Resolving inconsistencies" width="350" height="125"></li>
+    <li>Among German customers, new customers have a significantly high attrition rate of 38.21%.<br><br><img src="/Images/ss22.jpg" alt="Resolving inconsistencies" width="400" height="84">&nbsp;&nbsp;&nbsp;<img src="/Images/ss23.jpg" alt="Resolving inconsistencies" width="316" height="124"></li>
+    <li>Inactivity among new German customers may be the primary reason for attrition, as inactive customers contribute 51% to the total churn. <br><br><img src="/Images/ss20.jpg" alt="Resolving inconsistencies" width="380" height="76">&nbsp;&nbsp;&nbsp;<img src="/Images/ss21.jpg" alt="Resolving inconsistencies" width="345" height="103"></li>
+    <li>Notably, female customers with a credit card who are active are less likely to leave, whereas those with a card who are inactive have the highest likelihood of churning. <br><br><img src="/Images/ss24.jpg" alt="Resolving inconsistencies" width="400" height="93">&nbsp;&nbsp;&nbsp;<img src="/Images/ss25.jpg" alt="Resolving inconsistencies" width="360" height="106"></li>
+    <li>Inactivity among customers might stem from dissatisfaction with bank products, as those using 3 or 4 products show a churn rate exceeding 88%. <br><br><img src="/Images/ss26.jpg" alt="Resolving inconsistencies" width="336" height="150">&nbsp;&nbsp;&nbsp;<img src="/Images/ss27.jpg" alt="Resolving inconsistencies" width="336" height="150"></li>
     <li>The Adult age group constitutes the largest share of total customers and experiences significantly lower churn rates.</li>
     <li>Attrition among younger customers is impressively low.</li>
-    <li>Although the Senior Adult age group contributes the largest share to attrition, it also includes a higher percentage of customers using more than one product.</li>
+    <li>Although the Senior Adult age group contributes the largest share to attrition, it also includes a higher percentage of customers using more than one product. <br><br><img src="/Images/ss15.jpg" alt="Resolving inconsistencies" width="281" height="150"></li>
 </ul>
 
 
