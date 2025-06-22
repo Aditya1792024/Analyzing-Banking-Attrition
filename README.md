@@ -33,7 +33,7 @@
     <li><strong>Categorizing Customers Based on Salary</strong>: Grouped customers based on their estimated salary ranges. <br><br><img src="/Images/ss7.jpg" alt="Resolving inconsistencies" width="395" height="150"></li>
     <li><strong>Categorizing Customers Based on Credit Score</strong>: Divided customers into categories based on their credit scores. <br><br><img src="/Images/ss8.jpg" alt="Resolving inconsistencies" width="336" height="150"></li>
 </ul>
-<h2>Kay Insights:</h2>
+<h2>Key Insights:</h2>
 <ul>
     <li>The overall churn rate is 20.37%. <br><br><img src="/Images/ss9.jpg" alt="Resolving inconsistencies" width="250" height="57">&nbsp;&nbsp;&nbsp;<img src="/Images/ss10.jpg" alt="Resolving inconsistencies" width="239" height="57"></li>
     <li>Female customers exhibit a higher churn rate of 25.07%. <br><br><img src="/Images/ss11.jpg" alt="Resolving inconsistencies" width="300" height="118">&nbsp;&nbsp;&nbsp;<img src="/Images/ss12.jpg" alt="Resolving inconsistencies" width="300" height="93"></li>
