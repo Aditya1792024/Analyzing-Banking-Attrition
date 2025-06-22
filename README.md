@@ -27,12 +27,26 @@
 </ul>
 <h2>Data Transformations:</h2>
 <p>The dataset underwent a series of transformations to enhance its usability for analyzing customer attrition and developing retention strategies. The initial step involved creating a framework to categorize numerical data into meaningful groups, laying the foundation for more detailed segmentation. This process included the following specific activities:</p>
-
 <ul>
-    <li><strong>Categorizing Customers into Age Groups</strong>: Segmented customers into age-based groups for better analysis. <img src="age_group_categorization_image.png" alt="Age Group Categorization Image"></li>
-    <li><strong>Categorizing Customers Based on Tenure</strong>: Classified customers according to their tenure with the bank. <img src="tenure_categorization_image.png" alt="Tenure Categorization Image"></li>
-    <li><strong>Categorizing Customers Based on Salary</strong>: Grouped customers based on their estimated salary ranges. <img src="salary_categorization_image.png" alt="Salary Categorization Image"></li>
-    <li><strong>Categorizing Customers Based on Credit Score</strong>: Divided customers into categories based on their credit scores. <img src="credit_score_categorization_image.png" alt="Credit Score Categorization Image"></li>
+    <li><strong>Categorizing Customers into Age Groups</strong>: Segmented customers into age-based groups for better analysis. <br><br><img src="/Images/ss5.jpg" alt="Resolving inconsistencies" width="329" height="150"></li>
+    <li><strong>Categorizing Customers Based on Tenure</strong>: Classified customers according to their tenure with the bank. <br><br><img src="/Images/ss6.jpg" alt="Resolving inconsistencies" width="330" height="150"></li>
+    <li><strong>Categorizing Customers Based on Salary</strong>: Grouped customers based on their estimated salary ranges. <br><br><img src="/Images/ss7.jpg" alt="Resolving inconsistencies" width="395" height="150"></li>
+    <li><strong>Categorizing Customers Based on Credit Score</strong>: Divided customers into categories based on their credit scores. <br><br><img src="/Images/ss8.jpg" alt="Resolving inconsistencies" width="336" height="150"></li>
+</ul>
+<h2>Kay Insights:</h2>
+<ul>
+    <li>The overall churn rate is 20.37%.</li>
+    <li>Female customers exhibit a higher churn rate of 25.07%.</li>
+    <li>Customers in the Senior Adult age group (41-60) show the highest attrition rate at 39.65%.</li>
+    <li>Attrition among female customers in the Senior Adult age group reaches 45.80%.</li>
+    <li>German customers experience a higher attrition rate of 32.44% compared to other regions.</li>
+    <li>Among German customers, new customers have a significantly high attrition rate of 38.21%.</li>
+    <li>Inactivity among new German customers may be the primary reason for attrition, as inactive customers contribute 51% to the total churn.</li>
+    <li>Notably, female customers with a credit card who are active are less likely to leave, whereas those with a card who are inactive have the highest likelihood of churning.</li>
+    <li>Inactivity among customers might stem from dissatisfaction with bank products, as those using 3 or 4 products show a churn rate exceeding 88%.</li>
+    <li>The Adult age group constitutes the largest share of total customers and experiences significantly lower churn rates.</li>
+    <li>Attrition among younger customers is impressively low.</li>
+    <li>Although the Senior Adult age group contributes the largest share to attrition, it also includes a higher percentage of customers using more than one product.</li>
 </ul>
 
 
