@@ -1,6 +1,7 @@
 <img src="/Images/churn_project_bg.JPG" width="600" height="340"/>
 <h1>ABC Bank: Customer Attrition Insights and Retention Solutions</h1>
 <h2>Problem Statement:</h2>
+<p>ABC BAnk is confronting a critical challenge with an overall churn rate of 20%. Following an initial assessment, noticeable churning has been identified among female customers, the Senior Adult age group, and the Germany region, signaling potential underlying issues. As a data analyst, I am tasked with resolving this issue by delivering valuable insights to investigate the driving factors behind the attrition, developing effective strategies to reduce churn, and exploring areas of growth to enhance long-term profitability.</p>
 <h2>Dataset:</h2>
 <p>This dataset contains customer information from ABC Bank, used to analyze and address customer attrition. It includes the following columns:</p>
 <ul>
